@@ -56,8 +56,8 @@ const PLAN_CONFIG = {
     platformIcon: '👑',
     accentColor: '#f59e0b',
     showForm: true,
-    // TODO: Substituir pela URL real do checkout (Kiwify, Mercado Pago, etc.)
-    checkoutUrl: 'https://wa.me/15556303616?text=Quero%20assinar%20o%20Plano%20Omega',
+    // Link real do checkout Kiwify
+    checkoutUrl: 'https://pay.kiwify.com.br/uhalmjt',
   },
 };
 
